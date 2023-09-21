@@ -1,0 +1,26 @@
+C:\Users\engel\Desktop\Solution - Parque O\Parque O\bin\Debug\Parque O.exe.config
+C:\Users\engel\Desktop\Solution - Parque O\Parque O\bin\Debug\Parque O.exe
+C:\Users\engel\Desktop\Solution - Parque O\Parque O\obj\Debug\Parque O.csproj.AssemblyReference.cache
+C:\Users\engel\Desktop\Solution - Parque O\Parque O\obj\Debug\Parque_O.Dashboard.resources
+C:\Users\engel\Desktop\Solution - Parque O\Parque O\obj\Debug\Parque_O.Login.resources
+C:\Users\engel\Desktop\Solution - Parque O\Parque O\obj\Debug\Parque_O.Properties.Resources.resources
+C:\Users\engel\Desktop\Solution - Parque O\Parque O\obj\Debug\Parque O.csproj.GenerateResource.cache
+C:\Users\engel\Desktop\Solution - Parque O\Parque O\obj\Debug\Parque O.csproj.CoreCompileInputs.cache
+C:\Users\engel\Desktop\Solution - Parque O\Parque O\obj\Debug\Parque O.exe
+C:\Users\engel\Desktop\Solution - Parque O\Parque O\obj\Debug\Parque O.pdb
+C:\Users\engel\Desktop\Engels\Programacion\Proyectos\App desktop\C#\Proyectos Windows Application\Parque O, APP\Parque O\Solution - Parque O\Parque O\obj\Debug\Parque O.csproj.AssemblyReference.cache
+C:\Users\engel\Desktop\Engels\Programacion\Proyectos\App desktop\C#\Proyectos Windows Application\Parque O, APP\Parque O\Solution - Parque O\Parque O\obj\Debug\Parque_O.Dashboard.resources
+C:\Users\engel\Desktop\Engels\Programacion\Proyectos\App desktop\C#\Proyectos Windows Application\Parque O, APP\Parque O\Solution - Parque O\Parque O\obj\Debug\Parque_O.Login.resources
+C:\Users\engel\Desktop\Engels\Programacion\Proyectos\App desktop\C#\Proyectos Windows Application\Parque O, APP\Parque O\Solution - Parque O\Parque O\obj\Debug\Parque_O.Properties.Resources.resources
+C:\Users\engel\Desktop\Engels\Programacion\Proyectos\App desktop\C#\Proyectos Windows Application\Parque O, APP\Parque O\Solution - Parque O\Parque O\obj\Debug\Parque O.csproj.GenerateResource.cache
+C:\Users\engel\Desktop\Engels\Programacion\Proyectos\App desktop\C#\Proyectos Windows Application\Parque O, APP\Parque O\Solution - Parque O\Parque O\obj\Debug\Parque O.csproj.CoreCompileInputs.cache
+C:\Users\engel\Desktop\Engels\Programacion\Proyectos\App desktop\C#\Proyectos Windows Application\Parque O, APP\Parque O\Solution - Parque O\Parque O\obj\Debug\Parque O.exe
+C:\Users\engel\Desktop\Engels\Programacion\Proyectos\App desktop\C#\Proyectos Windows Application\Parque O, APP\Parque O\Solution - Parque O\Parque O\obj\Debug\Parque O.pdb
+C:\Users\engel\Desktop\Engels\Programacion\Proyectos\App desktop\C#\Proyectos Windows Application\Parque O, APP\Parque O\Solution - Parque O\Parque O\bin\Debug\Parque O.exe.config
+C:\Users\engel\Desktop\Engels\Programacion\Proyectos\App desktop\C#\Proyectos Windows Application\Parque O, APP\Parque O\Solution - Parque O\Parque O\bin\Debug\Parque O.exe
+C:\Users\engel\Desktop\Engels\Programacion\Proyectos\App desktop\C#\Proyectos Windows Application\Parque O, APP\Parque O\Solution - Parque O\Parque O\bin\Debug\Parque O.pdb
+C:\Users\engel\Desktop\Engels\Programacion\Proyectos\App desktop\C#\Proyectos Windows Application\Parque O, APP\Parque O\Solution - Parque O\Parque O\bin\Debug\Castle.Core.dll
+C:\Users\engel\Desktop\Engels\Programacion\Proyectos\App desktop\C#\Proyectos Windows Application\Parque O, APP\Parque O\Solution - Parque O\Parque O\bin\Debug\Newtonsoft.Json.dll
+C:\Users\engel\Desktop\Engels\Programacion\Proyectos\App desktop\C#\Proyectos Windows Application\Parque O, APP\Parque O\Solution - Parque O\Parque O\bin\Debug\Castle.Core.xml
+C:\Users\engel\Desktop\Engels\Programacion\Proyectos\App desktop\C#\Proyectos Windows Application\Parque O, APP\Parque O\Solution - Parque O\Parque O\bin\Debug\Newtonsoft.Json.xml
+C:\Users\engel\Desktop\Engels\Programacion\Proyectos\App desktop\C#\Proyectos Windows Application\Parque O, APP\Parque O\Solution - Parque O\Parque O\obj\Debug\Parque O.csproj.CopyComplete
